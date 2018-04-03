@@ -396,3 +396,9 @@ Elasticsearch restarted where required.
 ## Questions on Usage
 
 We welcome questions on how to use the role.  However, in order to keep the github issues list focused on "issues" we ask the community to raise questions at https://discuss.elastic.co/c/elasticsearch.  This is monitored by the maintainers.
+
+## Author Information
+
+Steamulo - www.steamulo.com
+
+Forked from [elastic](https://github.com/elastic)
